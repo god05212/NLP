@@ -45,8 +45,7 @@ Fake and real news dataset: Classifying the news
 
 ## 최종 모델
 Logistic Regression
-- '제목과 맥락을 고려했을 때'에 대한 결과
-    - accuracy: 약 0.9881
+- accuracy: 약 0.9881
 <br/>
 
 ## 결론
