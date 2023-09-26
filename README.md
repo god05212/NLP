@@ -38,9 +38,9 @@ Fake and real news dataset: Classifying the news
 <br/>
 
 ## 모델의 가짜 뉴스 (0)에 대한 Accuracy, Precision, Recall, F1-score (소숫점 넷 째 자리에서 반올림)
-| Logistic Regression | Accuracy | Precision | Recall | F1-score |
-|:----------------------------------------|:-------|:-------|:-------|:-------|
-| 제목과 맥락을 고려했을 때                | 0.9881 | 0.9829 | 0.9928 | 0.9878 |
+|| Accuracy | Precision | Recall | F1-score |
+|:------------------|:-------|:-------|:-------|:-------|
+|Logistic Regression| 0.9881 | 0.9829 | 0.9928 | 0.9878 |
 <br/>
 
 ## 최종 모델
